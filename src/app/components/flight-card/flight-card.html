@@ -1,4 +1,4 @@
-<article class="flight-card">
+<a class="flight-card" [routerLink]="['/chat', flight().flightNumber]">
   <h3>{{ flight().route }}</h3>
   <p class="meta">{{ flight().flightNumber }} · {{ flight().aircraft }}</p>
 
@@ -13,4 +13,4 @@
       <span class="time">{{ flight().arrivalTime }}<small>LT</small></span>
     </div>
   </div>
-</article>
+</a>

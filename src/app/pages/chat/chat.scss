@@ -1,0 +1,17 @@
+:host {
+  display: block;
+}
+
+.chat-page {
+  min-height: 100dvh;
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 30px 28px 48px;
+}
+
+h2 {
+  margin: 0;
+  color: var(--KLM-Primary-700);
+  font-size: 2rem;
+  font-weight: 500;
+}
