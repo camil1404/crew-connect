@@ -1,0 +1,79 @@
+{
+  "configVersion": 1,
+  "timestamp": 1774525049701,
+  "index": "/crew-connect/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/crew-connect/favicon.ico",
+        "/crew-connect/index.html",
+        "/crew-connect/main-SBUQ3DKE.js",
+        "/crew-connect/manifest.webmanifest",
+        "/crew-connect/polyfills-5CFQRCPP.js",
+        "/crew-connect/styles-S4XXLMAQ.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/crew-connect/icons/icon-128x128.png",
+        "/crew-connect/icons/icon-144x144.png",
+        "/crew-connect/icons/icon-152x152.png",
+        "/crew-connect/icons/icon-192x192.png",
+        "/crew-connect/icons/icon-384x384.png",
+        "/crew-connect/icons/icon-512x512.png",
+        "/crew-connect/icons/icon-72x72.png",
+        "/crew-connect/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/crew-connect/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/crew-connect/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/crew-connect/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/crew-connect/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/crew-connect/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/crew-connect/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/crew-connect/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/crew-connect/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/crew-connect/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/crew-connect/index.html": "2068c51f331c37e07c34e19079ed0c006a2563c8",
+    "/crew-connect/main-SBUQ3DKE.js": "ca1a10a0d3a12f88d25845023b7d7c602d05a4fe",
+    "/crew-connect/manifest.webmanifest": "d1fe2c286f422205145e1a4f2981e4f0e1f01d96",
+    "/crew-connect/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
+    "/crew-connect/styles-S4XXLMAQ.css": "cde8be690e67f3a782e1ae097cbef870b0ba070b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
