@@ -1,0 +1,113 @@
+:host {
+  display: block;
+}
+
+.home-shell {
+  min-height: 100dvh;
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 30px 28px 48px;
+}
+
+.top-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 34px;
+}
+
+.tabs {
+  display: inline-flex;
+  align-items: center;
+  background: #e9ecee;
+  border-radius: 999px;
+  padding: 4px;
+  gap: 4px;
+}
+
+.tab,
+.icon-button {
+  border: 0;
+  background: transparent;
+  color: #134f6a;
+  font-weight: 500;
+  cursor: default;
+}
+
+.tab {
+  border-radius: 999px;
+  padding: 10px 22px;
+  font-size: 17px;
+}
+
+.tab.selected {
+  background: #ffffff;
+  color: #0077cd;
+  box-shadow: 0 1px 2px rgba(6, 66, 100, 0.14);
+}
+
+.icon-button {
+  width: 36px;
+  height: 36px;
+  border-radius: 999px;
+  font-size: 20px;
+}
+
+h2 {
+  margin: 0 0 14px;
+  color: var(--KLM-Primary-700);
+  font-size: 36px;
+  font-weight: 500;
+}
+
+.section {
+  display: grid;
+  gap: 14px;
+}
+
+.hotel-weather {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 18px 24px;
+  color: var(--KLM-Primary-700);
+  font-size: 38px;
+}
+
+hr {
+  border: 0;
+  border-top: 2px solid var(--KLM-Gray-500);
+  margin: 34px 0 28px;
+}
+
+.date-label {
+  margin: 2px 0 0;
+  color: var(--KLM-Primary-700);
+  font-size: 36px;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .home-shell {
+    padding: 20px 16px 40px;
+  }
+
+  h2,
+  .date-label {
+    font-size: 1.5rem;
+  }
+
+  .hotel-weather {
+    font-size: 1.2rem;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .tab {
+    font-size: 0.95rem;
+    padding: 8px 14px;
+  }
+}

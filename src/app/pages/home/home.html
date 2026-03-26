@@ -1,0 +1,45 @@
+<main class="home-shell">
+  <header class="top-nav">
+    <div class="tabs" role="tablist" aria-label="home sections">
+      @for (tab of tabs; track tab) {
+        <button
+          type="button"
+          class="tab"
+          [class.selected]="tab === selectedTab"
+          role="tab"
+          [attr.aria-selected]="tab === selectedTab"
+        >
+          {{ tab }}
+        </button>
+      }
+    </div>
+  </header>
+
+  @if (homeSchedule$ | async; as schedule) {
+    <section class="section">
+      <h2>Active</h2>
+      <app-flight-card [flight]="schedule.activeFlight" />
+
+      <div class="hotel-weather">
+        <span class="hotel">🛏 {{ schedule.activeDetails.hotelName }}</span>
+        <span class="weather">⛅ {{ schedule.activeDetails.weatherSummary }}</span>
+      </div>
+    </section>
+
+    <hr />
+
+    <section class="section">
+      <h2>Upcoming</h2>
+
+      @for (section of schedule.upcomingSections; track $index) {
+        @if (section.dateLabel) {
+          <h3 class="date-label">{{ section.dateLabel }}</h3>
+        }
+
+        @for (flight of section.flights; track flight.id) {
+          <app-flight-card [flight]="flight" />
+        }
+      }
+    </section>
+  }
+</main>

@@ -1,0 +1,16 @@
+<article class="flight-card">
+  <h3>{{ flight().route }}</h3>
+  <p class="meta">{{ flight().flightNumber }} · {{ flight().aircraft }}</p>
+
+  <div class="timings">
+    <div class="row">
+      <span class="label">Departure</span>
+      <span class="time">{{ flight().departureTime }}<small>LT</small></span>
+    </div>
+
+    <div class="row">
+      <span class="label">Arrival</span>
+      <span class="time">{{ flight().arrivalTime }}<small>LT</small></span>
+    </div>
+  </div>
+</article>

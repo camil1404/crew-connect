@@ -1,1 +1,63 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  font-family:
+    'Inter',
+    'SF Pro Text',
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    sans-serif;
+  background: #f5f6f7;
+}
+:root {
+  //KLM Blue
+  --KLM-Blue: #00a1de;
+  //primary
+  --KLM-Primary-100: #ebf3f8;
+  --KLM-Primary-300: #c2dbea;
+  --KLM-Primary-500: #0077cd;
+  --KLM-Primary-700: #0e578c;
+  --KLM-Primary-900: #072b45;
+  //orange
+  --KLM-Orange-500: #e37222;
+  //gray
+  --KLM-Gray-100: #f6f7f8;
+  --KLM-Gray-200: #eaebec;
+  --KLM-Gray-300: #d4d8da;
+  --KLM-Gray-500: #aab0b5;
+  --KLM-Gray-700: #6a757d;
+  --KLM-Gray-900: #3f4e58;
+  //green
+  --KLM-Green-100: #e8fbe4;
+  --KLM-Green-300: #9fd994;
+  --KLM-Green-500: #268712;
+  --KLM-Green-900: #193403;
+  //red
+  --KLM-Red-100: #ffe0e8;
+  --KLM-Red-300: #ff809d;
+  --KLM-Red-500: #d10031;
+  --KLM-Red-900: #430211;
+
+  --flight-card-h3-size: 2rem;
+  --flight-card-meta-size: 1.25rem;
+  --flight-card-label-size: 2.25rem;
+  --flight-card-time-size: 2.625rem;
+  --flight-card-small-size: 1.25rem;
+}
+
+@media (max-width: 768px) {
+  :root {
+    --flight-card-h3-size: 1.5rem;
+    --flight-card-meta-size: 1rem;
+    --flight-card-label-size: 1rem;
+    --flight-card-time-size: 1rem;
+    --flight-card-small-size: 0.8rem;
+  }
+}
