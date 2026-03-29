@@ -6,7 +6,42 @@
   min-height: 100dvh;
   max-width: 768px;
   margin: 0 auto;
-  padding: 30px 28px 48px;
+  padding: 1.5rem 0px 0px;
+}
+
+.chat-header-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.back-button {
+  background: none;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+  margin-right: 4px;
+
+  &:hover {
+    background-color: var(--KLM-Gray-200, rgba(0, 0, 0, 0.08));
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--KLM-Primary-500);
+    outline-offset: 2px;
+  }
+
+  img {
+    width: 24px;
+    height: 24px;
+    display: block;
+  }
 }
 
 h2 {
