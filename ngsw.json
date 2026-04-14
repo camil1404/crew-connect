@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1776161103841,
+  "timestamp": 1776164537348,
   "index": "/crew-connect/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/crew-connect/favicon.ico",
         "/crew-connect/index.html",
-        "/crew-connect/main-NJZUTHBY.js",
+        "/crew-connect/main-2XYPZHQJ.js",
         "/crew-connect/manifest.webmanifest",
         "/crew-connect/polyfills-5CFQRCPP.js",
         "/crew-connect/styles-S4XXLMAQ.css"
@@ -79,6 +79,7 @@
         "/crew-connect/assets/svg/Arrows/Upload.svg",
         "/crew-connect/assets/svg/Fleet/777.jpg",
         "/crew-connect/assets/svg/Fleet/787.jpg",
+        "/crew-connect/assets/svg/Fleet/nobg.png",
         "/crew-connect/assets/svg/Functional/Ai.png",
         "/crew-connect/assets/svg/Functional/Ai.svg",
         "/crew-connect/assets/svg/Functional/Airplane window.png",
@@ -363,6 +364,7 @@
     "/crew-connect/assets/svg/Arrows/Upload.svg": "8e8cdd305714297f67edddddfaf4939afe09c076",
     "/crew-connect/assets/svg/Fleet/777.jpg": "7e44e9743759a60ebdaa4a493eb49be6709163f1",
     "/crew-connect/assets/svg/Fleet/787.jpg": "a24e2825fb4e3111bf5b502c5b66ea55d3b6a468",
+    "/crew-connect/assets/svg/Fleet/nobg.png": "7adaa3cee85ff96d539467f4d937bde21fd46d5e",
     "/crew-connect/assets/svg/Functional/Ai.png": "a84d96d935147230315efd52a40444dee48170a5",
     "/crew-connect/assets/svg/Functional/Ai.svg": "00c7c807f2c3640d7255d8eb299237e186fcd622",
     "/crew-connect/assets/svg/Functional/Airplane window.png": "5e211fc2d762560be2a915d2f620a3bae1003ec0",
@@ -591,8 +593,8 @@
     "/crew-connect/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/crew-connect/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "/crew-connect/icons/logo.png": "81b7ef89a2122b51f71d6651747a06c3cb343c97",
-    "/crew-connect/index.html": "cf23546ac390c8f3d6eb8eb4c16e1d5352686951",
-    "/crew-connect/main-NJZUTHBY.js": "b2b65e20c03e7f0dfe1a01cdf8b75c4571805c95",
+    "/crew-connect/index.html": "3b41d6d2380edb07221e9e8d64765fe87e1f0e79",
+    "/crew-connect/main-2XYPZHQJ.js": "8fb212425267594290d34671663b00e448c05249",
     "/crew-connect/manifest.webmanifest": "1d373983a369f578d43318e098082b22ed2f1c57",
     "/crew-connect/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
     "/crew-connect/styles-S4XXLMAQ.css": "cde8be690e67f3a782e1ae097cbef870b0ba070b"
