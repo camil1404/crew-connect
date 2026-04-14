@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1776168567274,
+  "timestamp": 1776169016389,
   "index": "/crew-connect/index.html",
   "assetGroups": [
     {
@@ -301,6 +301,7 @@
         "/crew-connect/assets/svg/logo.png",
         "/crew-connect/assets/svg/logo/Icon-blue.jpg",
         "/crew-connect/assets/svg/logo/Icon-yellow.jpg",
+        "/crew-connect/assets/svg/logo/icon-big.jpg",
         "/crew-connect/icons/Icon-blue.jpg",
         "/crew-connect/icons/Icon-yellow.jpg",
         "/crew-connect/icons/icon-128x128.png",
@@ -591,6 +592,7 @@
     "/crew-connect/assets/svg/logo.png": "81b7ef89a2122b51f71d6651747a06c3cb343c97",
     "/crew-connect/assets/svg/logo/Icon-blue.jpg": "26b45c88f75d857521026d6c24b5c7d77d7623e2",
     "/crew-connect/assets/svg/logo/Icon-yellow.jpg": "2c600fa68e4e6c04b014c9e5f3effa851ba49201",
+    "/crew-connect/assets/svg/logo/icon-big.jpg": "1782ec64a227c733ba95cb067078a411f88de482",
     "/crew-connect/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/crew-connect/icons/Icon-blue.jpg": "26b45c88f75d857521026d6c24b5c7d77d7623e2",
     "/crew-connect/icons/Icon-yellow.jpg": "2c600fa68e4e6c04b014c9e5f3effa851ba49201",
@@ -605,7 +607,7 @@
     "/crew-connect/icons/logo.png": "81b7ef89a2122b51f71d6651747a06c3cb343c97",
     "/crew-connect/index.html": "3b41d6d2380edb07221e9e8d64765fe87e1f0e79",
     "/crew-connect/main-2XYPZHQJ.js": "8fb212425267594290d34671663b00e448c05249",
-    "/crew-connect/manifest.webmanifest": "d9cbe864cd5cb2a86675d533b229be7fb7b78ca1",
+    "/crew-connect/manifest.webmanifest": "d05ffe09dd4594810f1ab5d026d6d3de1f986237",
     "/crew-connect/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
     "/crew-connect/styles-S4XXLMAQ.css": "cde8be690e67f3a782e1ae097cbef870b0ba070b"
   },
