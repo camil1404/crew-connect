@@ -6,49 +6,49 @@
   "start_url": "./",
   "icons": [
     {
-      "src": "icons/logo.png",
+      "src": "icons/Icon-blue.jpg",
       "sizes": "72x72",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "iicons/logo.png",
+      "src": "icons/Icon-blue.jpg",
       "sizes": "96x96",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "icons/logo.png",
+      "src": "icons/Icon-blue.jpg",
       "sizes": "128x128",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "icons/logo.png",
+      "src": "icons/Icon-blue.jpg",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "icons/logo.png",
+      "src": "icons/Icon-blue.jpg",
       "sizes": "152x152",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "icons/logo.png",
+      "src": "icons/Icon-blue.jpg",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "icons/logo.png",
+      "src": "icons/Icon-blue.jpg",
       "sizes": "384x384",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "icons/logo.png",
+      "src": "icons/Icon-blue.jpg",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
