@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1776169016389,
+  "timestamp": 1776169187378,
   "index": "/crew-connect/index.html",
   "assetGroups": [
     {
@@ -607,7 +607,7 @@
     "/crew-connect/icons/logo.png": "81b7ef89a2122b51f71d6651747a06c3cb343c97",
     "/crew-connect/index.html": "3b41d6d2380edb07221e9e8d64765fe87e1f0e79",
     "/crew-connect/main-2XYPZHQJ.js": "8fb212425267594290d34671663b00e448c05249",
-    "/crew-connect/manifest.webmanifest": "d05ffe09dd4594810f1ab5d026d6d3de1f986237",
+    "/crew-connect/manifest.webmanifest": "74cbe66fbea38465ba410b44d904d5b59b976567",
     "/crew-connect/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
     "/crew-connect/styles-S4XXLMAQ.css": "cde8be690e67f3a782e1ae097cbef870b0ba070b"
   },
