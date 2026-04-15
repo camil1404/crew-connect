@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1776169187378,
+  "timestamp": 1776241540413,
   "index": "/crew-connect/index.html",
   "assetGroups": [
     {
@@ -298,6 +298,11 @@
         "/crew-connect/assets/svg/Weather/Sunny intervals.svg",
         "/crew-connect/assets/svg/Weather/Sunny.svg",
         "/crew-connect/assets/svg/Weather/Volcanic ash.svg",
+        "/crew-connect/assets/svg/favicon/apple-touch-icon.png",
+        "/crew-connect/assets/svg/favicon/favicon-96x96.png",
+        "/crew-connect/assets/svg/favicon/favicon.svg",
+        "/crew-connect/assets/svg/favicon/web-app-manifest-192x192.png",
+        "/crew-connect/assets/svg/favicon/web-app-manifest-512x512.png",
         "/crew-connect/assets/svg/logo.png",
         "/crew-connect/assets/svg/logo/Icon-blue.jpg",
         "/crew-connect/assets/svg/logo/Icon-yellow.jpg",
@@ -312,6 +317,7 @@
         "/crew-connect/icons/icon-512x512.png",
         "/crew-connect/icons/icon-72x72.png",
         "/crew-connect/icons/icon-96x96.png",
+        "/crew-connect/icons/icon-big.jpg",
         "/crew-connect/icons/logo.png"
       ],
       "patterns": []
@@ -589,6 +595,11 @@
     "/crew-connect/assets/svg/Weather/Sunny intervals.svg": "09160556f1caaa619421ff676ede63c63e5a1fa9",
     "/crew-connect/assets/svg/Weather/Sunny.svg": "2356b4898749b7a8db9b71d6b1b412e22c51f630",
     "/crew-connect/assets/svg/Weather/Volcanic ash.svg": "8f6504f1ab969436e6af33aa2ef2a68336f1dc8f",
+    "/crew-connect/assets/svg/favicon/apple-touch-icon.png": "56b5aa4bf9659ba26d3c33184f6c2ecbbe342598",
+    "/crew-connect/assets/svg/favicon/favicon-96x96.png": "1e85c308d73f5fdba99af7421cdb2adc9e1bbf33",
+    "/crew-connect/assets/svg/favicon/favicon.svg": "d20142866b82090cf6346617ab229b55f9a52768",
+    "/crew-connect/assets/svg/favicon/web-app-manifest-192x192.png": "92f2060b77239ad8e65b0ffeb4a6917dc60c028e",
+    "/crew-connect/assets/svg/favicon/web-app-manifest-512x512.png": "73fe10060ef10b82f1468cc79e124a44d22933b8",
     "/crew-connect/assets/svg/logo.png": "81b7ef89a2122b51f71d6651747a06c3cb343c97",
     "/crew-connect/assets/svg/logo/Icon-blue.jpg": "26b45c88f75d857521026d6c24b5c7d77d7623e2",
     "/crew-connect/assets/svg/logo/Icon-yellow.jpg": "2c600fa68e4e6c04b014c9e5f3effa851ba49201",
@@ -604,6 +615,7 @@
     "/crew-connect/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/crew-connect/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/crew-connect/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/crew-connect/icons/icon-big.jpg": "1782ec64a227c733ba95cb067078a411f88de482",
     "/crew-connect/icons/logo.png": "81b7ef89a2122b51f71d6651747a06c3cb343c97",
     "/crew-connect/index.html": "3b41d6d2380edb07221e9e8d64765fe87e1f0e79",
     "/crew-connect/main-2XYPZHQJ.js": "8fb212425267594290d34671663b00e448c05249",
