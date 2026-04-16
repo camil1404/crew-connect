@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1776343583453,
+  "timestamp": 1776349634310,
   "index": "/crew-connect/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/crew-connect/favicon.ico",
         "/crew-connect/index.html",
-        "/crew-connect/main-OAFYVMFI.js",
+        "/crew-connect/main-3ZHS2CQZ.js",
         "/crew-connect/manifest.webmanifest",
         "/crew-connect/polyfills-5CFQRCPP.js",
         "/crew-connect/styles-S4XXLMAQ.css"
@@ -617,8 +617,8 @@
     "/crew-connect/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "/crew-connect/icons/icon-big.jpg": "1782ec64a227c733ba95cb067078a411f88de482",
     "/crew-connect/icons/logo.png": "81b7ef89a2122b51f71d6651747a06c3cb343c97",
-    "/crew-connect/index.html": "ee17cc8fefea05fb0d98aab864e9bdd86bc6f7dc",
-    "/crew-connect/main-OAFYVMFI.js": "4c5afdd34e1ce176ca559619371d4689d10a0a6b",
+    "/crew-connect/index.html": "ee72a6d63b99748eed9c43eff48a978c51ee9e27",
+    "/crew-connect/main-3ZHS2CQZ.js": "c6e9f7cfe3a32a6dcbe2d61ac987b8e2bad83519",
     "/crew-connect/manifest.webmanifest": "74cbe66fbea38465ba410b44d904d5b59b976567",
     "/crew-connect/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
     "/crew-connect/styles-S4XXLMAQ.css": "cde8be690e67f3a782e1ae097cbef870b0ba070b"
