@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1776241540413,
+  "timestamp": 1776343016043,
   "index": "/crew-connect/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/crew-connect/favicon.ico",
         "/crew-connect/index.html",
-        "/crew-connect/main-2XYPZHQJ.js",
+        "/crew-connect/main-EULEE2QV.js",
         "/crew-connect/manifest.webmanifest",
         "/crew-connect/polyfills-5CFQRCPP.js",
         "/crew-connect/styles-S4XXLMAQ.css"
@@ -271,7 +271,7 @@
         "/crew-connect/assets/svg/Travel/Culture.svg",
         "/crew-connect/assets/svg/Travel/Gastronomy.svg",
         "/crew-connect/assets/svg/Travel/Golf.svg",
-        "/crew-connect/assets/svg/Travel/Group travel.svg",
+        "/crew-connect/assets/svg/Travel/Group-travel.svg",
         "/crew-connect/assets/svg/Travel/Mountain ski.svg",
         "/crew-connect/assets/svg/Travel/Nature.svg",
         "/crew-connect/assets/svg/Travel/Nightlife.svg",
@@ -568,7 +568,7 @@
     "/crew-connect/assets/svg/Travel/Culture.svg": "79beebc47ee647f61ac10926afb26735ed6b2ec6",
     "/crew-connect/assets/svg/Travel/Gastronomy.svg": "628bfd3e76b4fdca14ac6bbe28515db2cdc8a436",
     "/crew-connect/assets/svg/Travel/Golf.svg": "535f026748b3ea9a0acbd23094a86426f8d485ff",
-    "/crew-connect/assets/svg/Travel/Group travel.svg": "e28894259d7028940a7cd026431a3f05848c5fd6",
+    "/crew-connect/assets/svg/Travel/Group-travel.svg": "e28894259d7028940a7cd026431a3f05848c5fd6",
     "/crew-connect/assets/svg/Travel/Mountain ski.svg": "de8df3d9c65ab081090cf734ecffe2264f8475a6",
     "/crew-connect/assets/svg/Travel/Nature.svg": "206c433e9ab5f1bc7785e5dfac9c13c4ca5399c4",
     "/crew-connect/assets/svg/Travel/Nightlife.svg": "56b6c2ff56aec259ad437d5609bab22e790cece7",
@@ -604,7 +604,7 @@
     "/crew-connect/assets/svg/logo/Icon-blue.jpg": "26b45c88f75d857521026d6c24b5c7d77d7623e2",
     "/crew-connect/assets/svg/logo/Icon-yellow.jpg": "2c600fa68e4e6c04b014c9e5f3effa851ba49201",
     "/crew-connect/assets/svg/logo/icon-big.jpg": "1782ec64a227c733ba95cb067078a411f88de482",
-    "/crew-connect/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/crew-connect/favicon.ico": "1a9cb072d1526afa6977988fa5641d6393654f9a",
     "/crew-connect/icons/Icon-blue.jpg": "26b45c88f75d857521026d6c24b5c7d77d7623e2",
     "/crew-connect/icons/Icon-yellow.jpg": "2c600fa68e4e6c04b014c9e5f3effa851ba49201",
     "/crew-connect/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
@@ -617,8 +617,8 @@
     "/crew-connect/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "/crew-connect/icons/icon-big.jpg": "1782ec64a227c733ba95cb067078a411f88de482",
     "/crew-connect/icons/logo.png": "81b7ef89a2122b51f71d6651747a06c3cb343c97",
-    "/crew-connect/index.html": "3b41d6d2380edb07221e9e8d64765fe87e1f0e79",
-    "/crew-connect/main-2XYPZHQJ.js": "8fb212425267594290d34671663b00e448c05249",
+    "/crew-connect/index.html": "40d1321a56a0bda323cec419f2b0d69e23a22d85",
+    "/crew-connect/main-EULEE2QV.js": "b1f73d40987138d350859856f58731f40bb2d8e6",
     "/crew-connect/manifest.webmanifest": "74cbe66fbea38465ba410b44d904d5b59b976567",
     "/crew-connect/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
     "/crew-connect/styles-S4XXLMAQ.css": "cde8be690e67f3a782e1ae097cbef870b0ba070b"
